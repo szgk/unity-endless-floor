@@ -1,0 +1,7 @@
+{
+  "name": "com.szgk.endless_floor",
+  "version": "0.0.1",
+  "displayName": "EndressFloor",
+  "description": "Endless Omnidirectional Floor",
+  "unity": "2021.1.22f1"
+}
